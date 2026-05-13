@@ -1,0 +1,7 @@
+constructTree 5
+convert DATA 
+convert STRUCTURES
+inOrderTraversal
+clear
+postOrderTraversal
+exit

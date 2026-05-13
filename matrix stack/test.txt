@@ -1,0 +1,6 @@
+rotateX -45
+rotateY 90
+rotateZ 12.7
+translate 4 2 1
+transformVertex 3 .5 1
+exit
