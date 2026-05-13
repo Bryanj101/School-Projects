@@ -1,0 +1,14 @@
+append w 10
+append z 5
+append c 8
+prepend j 10
+insert_before x 10 z
+insert_after k 10 z
+remove x
+search c
+display_until 23
+length
+display
+clear
+display
+exit
